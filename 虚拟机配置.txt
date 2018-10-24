@@ -36,3 +36,12 @@ hadoop
 3个datanode
 包括master
 
+
+已安装
+Hadoop
+zookeeper
+spark
+hbase
+presto
+kafka
+sqoop
